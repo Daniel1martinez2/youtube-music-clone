@@ -33,7 +33,7 @@ export const testChunk2: ChunkProps = {
   chunkData: [
     {type:'mix', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
     {type:'album', img:imgLinks[4], title:'Re:Re:', body:'ASIAN KUNG-FU GENERATION'},
-    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant, foo fighters'},
+    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant'},
     {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
     {type:'artist', img:imgLinks[3], title:'Bad bunny', body:'35.5M subscribers'},
     {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
