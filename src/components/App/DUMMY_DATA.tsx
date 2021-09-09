@@ -20,26 +20,26 @@ const imgLinks = [
 export const testChunk: ChunkProps = {
   title: {type: 'section', content: 'Your Favorites'},
   chunkData: [
-    {type:'artist', img:imgLinks[0], title:'Videoclub ', body:'20.2M Subscribers'},
-    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant, foo fighters'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'artist', img:imgLinks[3], title:'Bad bunny', body:'35.5M subscribers'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
+    {type:'artist', img:imgLinks[0], title:'Videoclub ', body:'20.2M Subscribers', id: Math.random()},
+    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant, foo fighters', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'artist', img:imgLinks[3], title:'Bad bunny', body:'35.5M subscribers', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
   
   ],
 }; 
 export const testChunk2: ChunkProps = {
   title: {type: 'similarTo', content: {img:imgLinks[5], name:'Sum 41'}},
   chunkData: [
-    {type:'mix', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'album', img:imgLinks[4], title:'Re:Re:', body:'ASIAN KUNG-FU GENERATION'},
-    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'artist', img:imgLinks[3], title:'Bad bunny', body:'35.5M subscribers'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
-    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish'},
+    {type:'mix', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'album', img:imgLinks[4], title:'Re:Re:', body:'ASIAN KUNG-FU GENERATION', id: Math.random()},
+    {type:'mix', img:imgLinks[1], title:'Mix for you', body:'Billie, cage the elephant', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'artist', img:imgLinks[3], title:'Bad bunny', body:'35.5M subscribers', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
+    {type:'album', img:imgLinks[2], title:'Happier than ever (edit)', body:'single • Billie Eilish', id: Math.random()},
   ],
 }; 

@@ -1,9 +1,13 @@
-export interface MusicElem {
+interface MusicElem {
   type: 'artist' | 'album' | 'mix' ;
   img: string;
   title: string;
   body: string;
 }; 
+
+export type MusicElemObject = MusicElem & {
+  id: number; 
+}
 
 export interface Artist {
   img: string;
@@ -27,7 +31,7 @@ export type Title = {
 
 export interface ChunkProps {
   title: Title;
-  chunkData: Array<MusicElem>; 
+  chunkData: Array<MusicElemObject>; 
 };
 
 export interface ProfileProps {
