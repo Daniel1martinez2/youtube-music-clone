@@ -4,7 +4,6 @@
 ## Components
 * Header
   * NavBar
-    * Link
     * Search
   * Profile
 * Chunk
@@ -16,11 +15,8 @@
 * **header**
   * *No props*
 * **NavBar**
-  * *links (mandatory)*: array: obj with url and title
+  * *links (mandatory)*: array: obj: url:string, title:string
   * *searchElem (optional)*: boolean
-* **Link**
-  * *children (mandatory)* string
-  * *url (mandatory)*: string
 * **Chunk**
   * *title (mandatory)*: obj: type (section, similarTo), text, img
   * *chunkData (mandatory)*: array: obj: type (artist, album, mix), img, title, body
