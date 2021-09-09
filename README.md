@@ -25,6 +25,7 @@
 * **ChunkElem**
   * *data (mandatory)*: obj: type (section, similarTo), text, img
 
+![](./public/img/components.png)
 
 
 
