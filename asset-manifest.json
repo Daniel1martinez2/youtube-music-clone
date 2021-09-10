@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Daniel1martinez2/youtube-music-clone/static/css/main.308499ac.chunk.css",
+    "main.js": "/Daniel1martinez2/youtube-music-clone/static/js/main.e45c97ad.chunk.js",
+    "main.js.map": "/Daniel1martinez2/youtube-music-clone/static/js/main.e45c97ad.chunk.js.map",
+    "runtime-main.js": "/Daniel1martinez2/youtube-music-clone/static/js/runtime-main.09f3e792.js",
+    "runtime-main.js.map": "/Daniel1martinez2/youtube-music-clone/static/js/runtime-main.09f3e792.js.map",
+    "static/js/2.8f06c3be.chunk.js": "/Daniel1martinez2/youtube-music-clone/static/js/2.8f06c3be.chunk.js",
+    "static/js/2.8f06c3be.chunk.js.map": "/Daniel1martinez2/youtube-music-clone/static/js/2.8f06c3be.chunk.js.map",
+    "index.html": "/Daniel1martinez2/youtube-music-clone/index.html",
+    "static/css/main.308499ac.chunk.css.map": "/Daniel1martinez2/youtube-music-clone/static/css/main.308499ac.chunk.css.map",
+    "static/js/2.8f06c3be.chunk.js.LICENSE.txt": "/Daniel1martinez2/youtube-music-clone/static/js/2.8f06c3be.chunk.js.LICENSE.txt",
+    "static/media/arrow.782f45c7.svg": "/Daniel1martinez2/youtube-music-clone/static/media/arrow.782f45c7.svg",
+    "static/media/logo.e2754646.svg": "/Daniel1martinez2/youtube-music-clone/static/media/logo.e2754646.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f3e792.js",
+    "static/js/2.8f06c3be.chunk.js",
+    "static/css/main.308499ac.chunk.css",
+    "static/js/main.e45c97ad.chunk.js"
+  ]
+}
